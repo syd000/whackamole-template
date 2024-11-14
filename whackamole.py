@@ -2,8 +2,6 @@ import pygame
 import random
 
 
-# testing again
-
 def main():
     try:
         pygame.init()
